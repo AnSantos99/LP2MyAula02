@@ -1,0 +1,11 @@
+D:\1) ESCOLA\2) Segundo Ano\1) Semestre 1\5) Liguagens de Programação II\LP2Aula02\GameUnits\bin\Debug\netcoreapp3.0\GameUnits.exe
+D:\1) ESCOLA\2) Segundo Ano\1) Semestre 1\5) Liguagens de Programação II\LP2Aula02\GameUnits\bin\Debug\netcoreapp3.0\GameUnits.deps.json
+D:\1) ESCOLA\2) Segundo Ano\1) Semestre 1\5) Liguagens de Programação II\LP2Aula02\GameUnits\bin\Debug\netcoreapp3.0\GameUnits.runtimeconfig.json
+D:\1) ESCOLA\2) Segundo Ano\1) Semestre 1\5) Liguagens de Programação II\LP2Aula02\GameUnits\bin\Debug\netcoreapp3.0\GameUnits.runtimeconfig.dev.json
+D:\1) ESCOLA\2) Segundo Ano\1) Semestre 1\5) Liguagens de Programação II\LP2Aula02\GameUnits\bin\Debug\netcoreapp3.0\GameUnits.dll
+D:\1) ESCOLA\2) Segundo Ano\1) Semestre 1\5) Liguagens de Programação II\LP2Aula02\GameUnits\bin\Debug\netcoreapp3.0\GameUnits.pdb
+D:\1) ESCOLA\2) Segundo Ano\1) Semestre 1\5) Liguagens de Programação II\LP2Aula02\GameUnits\obj\Debug\netcoreapp3.0\GameUnits.csprojAssemblyReference.cache
+D:\1) ESCOLA\2) Segundo Ano\1) Semestre 1\5) Liguagens de Programação II\LP2Aula02\GameUnits\obj\Debug\netcoreapp3.0\GameUnits.AssemblyInfoInputs.cache
+D:\1) ESCOLA\2) Segundo Ano\1) Semestre 1\5) Liguagens de Programação II\LP2Aula02\GameUnits\obj\Debug\netcoreapp3.0\GameUnits.AssemblyInfo.cs
+D:\1) ESCOLA\2) Segundo Ano\1) Semestre 1\5) Liguagens de Programação II\LP2Aula02\GameUnits\obj\Debug\netcoreapp3.0\GameUnits.dll
+D:\1) ESCOLA\2) Segundo Ano\1) Semestre 1\5) Liguagens de Programação II\LP2Aula02\GameUnits\obj\Debug\netcoreapp3.0\GameUnits.pdb
