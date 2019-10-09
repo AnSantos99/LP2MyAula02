@@ -7,6 +7,10 @@ namespace Tuples
         private static Random rnd;
 
         /*
+        /// <summary>
+        /// Get Stuff using class object
+        /// </summary>
+        /// <returns> Return object in specific place with rnd</returns>
         private static object[] GetStuff1() 
         {
             // Create array of type objects with 3 "houses"
@@ -18,11 +22,18 @@ namespace Tuples
             return objs;
         }*/
 
+
         /*
-    private static Stuff GetStuff() 
-    {
-        return new Stuff(rnd.Next(), rnd.NextDouble(), rnd.NextDouble() < 0.5);
-    }*/
+        /// <summary>
+        /// Get Stuff using return with rnd
+        /// </summary>
+        /// <returns> return random numbs of values</returns>
+        private static Stuff GetStuff() 
+        {
+            return new Stuff(rnd.Next(), rnd.NextDouble(), rnd.NextDouble() < 0.5);
+        }*/
+
+
         /*
         /// <summary>
         /// Method to return random numbers with keyword out
@@ -37,6 +48,10 @@ namespace Tuples
             c = rnd.NextDouble() < 0.5;
         }*/
 
+        /// <summary>
+        /// Get Stuff with tuples with specific types
+        /// </summary>
+        /// <returns> return tuples</returns>
         private static Tuple<int, double, bool> GetStuff() 
         {
             Tuple<int, double, bool> stuff = new Tuple<int, double, bool>
@@ -47,13 +62,14 @@ namespace Tuples
 
         static void Main(string[] args)
         {
+            // Instance of random rnd
             rnd = new Random();
 
+            // Get tuple method of function
             Tuple<int, double, bool> t = GetStuff();
 
+            // Print out Items of tuple
             Console.WriteLine("In= "+ t.Item1 + " do= "+ t.Item2 + " Bo= "+ t.Item3);
-
-            Console.WriteLine();
         }
     }
 }
