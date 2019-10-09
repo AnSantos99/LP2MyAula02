@@ -14,10 +14,10 @@ namespace GameUnits
             Unit u2 = new SettlerUnit(movement);
 
             u1.Move();
-            Console.WriteLine("Health = " + u1.Health + "Value = " + u1.Value);
-
+            Console.WriteLine("Health = " + u1.Health + " Value = " + u1.Value);
+            Console.WriteLine();
             u2.Move();
-            Console.WriteLine("Health = " + u2.Health + "Value = " + u2.Value);
+            Console.WriteLine("Health = " + u2.Health + " Value = " + u2.Value);
         }
     }
 }
